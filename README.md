@@ -1,6 +1,6 @@
 # Explainable AI for Formula 1 Pit Stop Strategy Prediction
 
-## 📖 Project Overview
+## Project Overview
 
 Pit stop decisions are among the most critical strategic choices in Formula 1. Teams must balance tyre degradation, race position, fuel strategy, and pace loss to determine the optimal moment for a stop.
 
